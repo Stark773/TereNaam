@@ -14,8 +14,8 @@ class Helper(object):
 » ᴘʀɪᴠᴧᴛє & sєᴄυʀє sσᴜʀᴄє | ηᴏ ᴅᴧᴛᴧ sʜᴧʀᴇ
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/IamIstkhar)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Itzz_Istkhar)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/starkxoz)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](t.me/cooltaker)
 ─────────────────────────**
 '''
     
@@ -26,9 +26,9 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/THUNDERDEVS)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹sᴛᴀʀᴋ-ʙᴏᴛѕ˼](https://t.me/starkxoz)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ᴡᴏʀʟᴅ-ᴄʜᴀᴛ˼](https://t.me/best_friends_world_chat)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-sᴛᴀʀᴋ](https://github.com/)
 ─────────────────────────**
 '''
 
@@ -44,7 +44,7 @@ class Helper(object):
 /setphoto : sᴇᴛ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 /rmphoto : ʀᴇᴍᴏᴠᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
 '''
 
     HELP_MOD = '''
@@ -56,7 +56,7 @@ class Helper(object):
 /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ʙᴀɴɴᴇᴅ ᴍᴇᴍʙᴇʀs
 /unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
 '''
     
     HELP_WEL = '''
@@ -65,7 +65,7 @@ class Helper(object):
 /welcome on : ᴇɴᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 /welcome off : ᴅɪsᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
 '''
 
     HELP_VC = '''
@@ -74,7 +74,7 @@ class Helper(object):
 /vclogger on : ᴠᴄ ʟᴏɢɢᴇʀ ᴏɴ
 /vclogger off : ᴠᴄ ʟᴏɢɢᴇʀ ᴏғғ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
 '''
 
     HELP_ADMIN = '''
@@ -84,7 +84,7 @@ class Helper(object):
 /demote : ᴅᴇᴍᴏᴛᴇ ᴜsᴇʀ ᴀɴ ᴀᴅᴍɪɴ
 /fullpromote : ᴘʀᴏᴍᴏᴛᴇ ᴜsᴇʀs ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
 '''
 
 
@@ -97,5 +97,5 @@ class Helper(object):
 /unmute : ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ
 /tmute : ᴛɪᴍɪɴɢ ᴍᴜᴛᴇ 
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
     '''
