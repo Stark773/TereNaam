@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH", "916a9424dd1e58ab7955001ccc0172b3")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
-OWNER_ID = int(getenv("OWNER_ID", 7980630836))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Itzz_Istkhar")
-BOT_USERNAME = getenv("BOT_USERNAME", "Sukku_Music_Bot")
+OWNER_ID = int(getenv("OWNER_ID", 7152072474))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "sexyintro)
+BOT_USERNAME = getenv("BOT_USERNAME", "StarkMusicRobot")
 BOT_NAME = getenv("BOT_NAME", "Sonali Music")
 ASSUSERNAME = getenv("ASSUSERNAME")
 
@@ -48,8 +48,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THUNDERDEVS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/starkxoz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/best_friends_world_chat")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
